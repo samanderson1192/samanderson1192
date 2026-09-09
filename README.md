@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Sam (@samanderson1192) 👋
 
-<!--
-**samanderson1192/samanderson1192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend engineer based in Singapore. I build fast, accessible web apps and spend way too much time tweaking build configs.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🛠️ Building client apps using TypeScript, React, and Next.js
+- 🎨 Styling with TailwindCSS and tinkering with micro-interactions
+- ⚡ Optimizing build setups and tooling with Vite
+- 📖 Diving deeper into web perf metrics (Core Web Vitals) and edge runtime patterns
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech stack
+- **Frontend:** TypeScript, React, Next.js, TailwindCSS
+- **Build & Tools:** Vite, pnpm, Git, Jest, Playwright
+- **Deployment:** Vercel, Cloudflare Pages
+
+#### Reach out
+- Email: `samanderson.dev@gmail.com`
+- LinkedIn: [linkedin.com/in/samanderson1192](https://linkedin.com)
+- Website: [samanderson.dev](https://samanderson.dev)
